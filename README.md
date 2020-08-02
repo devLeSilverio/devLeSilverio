@@ -10,7 +10,7 @@
 
 
  
-  **Rediscover yourself every day**  ![I loved flowers!!](https://image.flaticon.com/icons/png/128/3095/3095100.png)
+  **Rediscover yourself every day**  ![I loved flowers!!](https://image.flaticon.com/icons/png/128/2917/2917248.png)
 
 
 
