@@ -1,7 +1,17 @@
 ## Hello,Welcome to my profile ✨👋
 
+##### Pleasure, my name is Leticia and I do Analysis and Systems Development at Etec de Peruibe.Let's program !!
+
+
+
+
 ![I loved flowers!!](https://image.flaticon.com/icons/png/128/2917/2917257.png)
 
+
+
+
+
+>"A arte de programar consiste em organizar e dominar a complexidade->Edsger W. Dijkstra"
 
 <!--
 **devLeSilverio/devLeSilverio** is a ✨🌙 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
