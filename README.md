@@ -9,6 +9,9 @@
 
   ![I loved flowers!!](https://image.flaticon.com/icons/png/128/2917/2917257.png)
 
+### Send me a email:
+
+[Send now](lele.silverio@hotmail.com)
 
 #### **>"A arte de programar consiste em organizar e dominar a complexidade"->Edsger W. Dijkstra**
 
