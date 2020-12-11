@@ -7,7 +7,7 @@
 
 ### Speak with me:
 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513997583045&text=Hello!)](https://api.whatsapp.com/send?phone=551399783045&text=Hello!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513992002067&text=Hello!)](https://api.whatsapp.com/send?phone=5513992002067&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lele.silverio@hotmail.com)](mailto:lele.silverio@hotmail.com)
 
 
