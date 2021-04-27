@@ -12,18 +12,11 @@
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513992002067&text=Hello!)](https://api.whatsapp.com/send?phone=5513992002067&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lele.silverio@hotmail.com)](mailto:lele.silverio@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-silverio-72634a1b8/)](https://www.linkedin.com/in/leticia-silverio-72634a1b8)
 
 
-<p align="left">
-  <strong>Change the language : </strong>
-</p>
-<p align="left">
-  <a href="https://github.com/devLeSilverio/devLeSilverio/blob/master/README.md" alt="turn lenguage">
-    <img src="https://github.com/devLeSilverio/devLeSilverio/blob/master/usa.jpg" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Language Portugues">
-  </a> 
-</p>
+
+> "The art of programming consists of organizing and mastering complexity" -> Edsger W. Dijkstra
 
 
-#### **->"The art of programming consists of organizing and mastering complexity"->Edsger W. Dijkstra**
-
-
+![BuildLove](http://ForTheBadge.com/images/badges/built-with-love.svg)
