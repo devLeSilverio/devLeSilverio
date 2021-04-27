@@ -19,4 +19,4 @@
 > "The art of programming consists of organizing and mastering complexity" -> Edsger W. Dijkstra
 
 
-![BuildLove](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![BlackMagic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
