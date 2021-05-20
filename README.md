@@ -4,7 +4,7 @@
 
  I am a young Brazilian girl wanting to code. <br>
  Currently I study at the institution "Etec de Peruibe" taking the course ***Analysis and Systems Development***... <br>
- Let's program !!
+ 💻Let's program !!
 
 * Passionate about the English language ⭐ 
 * I love to discover new things every day! 🌞 
