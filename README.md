@@ -3,7 +3,8 @@
 <img src="https://github.com/devLeSilverio/devLeSilverio/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
  I am a young Brazilian girl wanting to code. <br>
- Currently I study at the institution "Etec de Peruibe" taking the course ***Analysis and Systems Development***...Let's program !!
+ Currently I study at the institution "Etec de Peruibe" taking the course ***Analysis and Systems Development***... <br>
+ Let's program !!
 
 * Passionate about the English language ⭐ 
 * I love to discover new things every day! 🌞 
