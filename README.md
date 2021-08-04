@@ -20,5 +20,6 @@
 
 > "The art of programming consists of organizing and mastering complexity" -> Edsger W. Dijkstra
 
+<img src="https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="max-width:100%;"> 
 
 ![BlackMagic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
